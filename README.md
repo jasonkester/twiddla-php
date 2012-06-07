@@ -1,4 +1,4 @@
-Twiddla API .NET Client Library
+Twiddla API PHP Client Library
 =========
 
 This is a simple PHP wrapper for the [Twiddla API].  It supports every [basic] and [advanced] API call.
